@@ -1,0 +1,78 @@
+ /*http://www.grsites.com*/
+
+ body {
+     background-image: linear-gradient(to right, #434343 0%, black 100%);
+     font-family: 'Caveat', cursive;
+     font-family: 'Barlow', sans-serif;
+     font-size: 25px;
+     margin:0px;
+     padding:0px;
+     
+     align-items: center;
+ }
+
+ .container{
+ 
+     background-color: rgb(14, 109, 126);
+ }
+
+.title {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+
+}
+
+#start-button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    height: 100px;
+    width: 250px;
+    margin-left: 425px;
+    
+    
+
+
+}
+
+.time-left{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    padding: 30px;
+
+
+}
+
+.question-box{
+    padding: 20px;
+    margin: 20px;
+  
+    
+}
+
+#submit-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    height: 100px;
+    width: 250px;
+    float:center;
+
+}
+
+.results {
+   
+
+}
+
+#cd {
+    margin-left: 600px;
+  
+
+}
